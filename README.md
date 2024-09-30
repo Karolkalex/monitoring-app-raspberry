@@ -1,6 +1,6 @@
 # Real-Time Patient Monitoring App (Raspberry Pi)
 
-## OVerview 
+## Overview 
 This project is a real-time patient monitoring system that runs on a Raspberry Pi, using sensors like a heart rate sensor and a pulse oximeter connected to the Pi’s GPIO pins. The Raspberry Pi collects vital signs data (e.g., heart rate, oxygen saturation), processes it, and visualizes it in real time. It also features anomaly detection (e.g., abnormal heart rate) and data logging.
 
 ## Features
